@@ -303,3 +303,5 @@ podcast_subtitle:
 podcast_copyright: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
   License.
 cloudfront_url: https://d3ur8zm5qs6awd.cloudfront.net
+
+theme: jekyll-theme-minimal
